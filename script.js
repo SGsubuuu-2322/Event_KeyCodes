@@ -2,6 +2,8 @@
 // This is the code for capturing the HTML element for further DOM manipulations...
 const insert = document.getElementById("insert");
 
+
+// This is for keydown event listen....
 window.addEventListener("keydown", (e) => {
   insert.innerHTML = `
   <div class="key">
