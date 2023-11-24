@@ -18,7 +18,7 @@ body {
   margin: 0;
 }
 
-
+/* This is the stylings for key container... */
 
 .key {
   background-color: #eee;
@@ -35,6 +35,7 @@ body {
   position: relative;
 }
 
+/* And this is for key titles... */
 .key small {
   position: absolute;
   top: -24px;
