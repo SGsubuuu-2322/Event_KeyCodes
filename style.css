@@ -1,3 +1,5 @@
+/* This is the styling sheet for the project written through CSS3... */
+/* And this is the  some of the general stylings for all of the project...*/
 @import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
 
 * {
@@ -15,6 +17,8 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+
 
 .key {
   background-color: #eee;
